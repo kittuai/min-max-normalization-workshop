@@ -1,7 +1,7 @@
 
 # 🏡 Min-Max Normalization Workshop
 
-## 📘 Course: Foundations of Machine Learning Frameworks (CSCN8010)  
+## 📘 Course: Foundations of Machine Learning Programming
 **Lab:** Manual Normalization and Feature Scaling  
 **Team Number:** 7  
 **Team Members:**  
